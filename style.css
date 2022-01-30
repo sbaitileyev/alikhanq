@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    text-decoration: none;
+    padding: 13px;
+ }
+ header a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+    border: 1px solid white;
+    border-radius: 10px ;
+    background-color: white;
+ }
+h1{
+    color: gold;
+    text-align: center;
+}
+footer p{
+    border: 3px solid lightgreen;
+    background-color: lightgreen;
+}
+nav a{
+    border: 3px solid lightgreen;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: lightgreen;
+    color: white;
+    padding: 1px
+}
+.tovars{
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+main h2{
+    color: blue;
+    text-align: center;
+}
